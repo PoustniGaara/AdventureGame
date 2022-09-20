@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AdventureGameTUI/1.0.0": {
+        "dependencies": {
+          "AdventureGameClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AdventureGameTUI.dll": {}
+        }
+      },
+      "AdventureGameClassLibrary/1.0.0": {
+        "runtime": {
+          "AdventureGameClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdventureGameTUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdventureGameClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
